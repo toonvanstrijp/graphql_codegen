@@ -210,7 +210,7 @@ packages:
       name: gql_code_builder
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.0"
+    version: "0.3.0-alpha.0"
   gql_dedupe_link:
     dependency: transitive
     description:
@@ -259,13 +259,13 @@ packages:
       name: graphql
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "5.0.2-beta.2"
+    version: "5.0.2-beta.3"
   graphql_codegen_config:
     dependency: "direct main"
     description:
-      path: "../graphql_codegen_config"
-      relative: true
-    source: path
+      name: graphql_codegen_config
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.2.0"
   graphs:
     dependency: transitive
